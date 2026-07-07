@@ -1,4 +1,4 @@
-# Hi, I'm Alex 👋
+# Hello World, I'm Alex
 
 **Computer Science @ Northeastern University**
 
