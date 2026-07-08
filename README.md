@@ -4,11 +4,7 @@
 
 I write code that makes things work better than they did before — whether that's cleaning up a broken research pipeline or building something from scratch.
 
-- Engineered a data pipeline at Yale processing **10,000+ cancer-causing protein variants** to accelerate computational biology research
-- Built backend systems handling **50M+ row datasets** to improve eCommerce performance under high traffic
 - Currently building [The Greater Stake](https://github.com/Alex-lop/The-Greater-Stake) — taking on the online betting industry
-
-I care about software that is fast, useful, and built with the actual user in mind.
 
 ---
 
