@@ -1,10 +1,10 @@
 # Hello World, I'm Alex
 
-**Computer Science @ Northeastern University**
+**Computer Science + Math @ Northeastern University**
 
-I write code that makes things work better than they did before whether that's cleaning up a broken research pipeline or building something from scratch.
+Trying to build something impactful
 
-- Currently building [The Greater Stake](https://github.com/Alex-lop/The-Greater-Stake) — taking on the online betting industry
+- Currently working on Datahub's opensource Hackathon to improve AI's 'context managment' of metadata
 
 ---
 
@@ -12,20 +12,18 @@ I write code that makes things work better than they did before whether that's c
 
 **Languages**
 
-![Languages](https://tech-stack.wontory.dev/api/orbit?text=Languages&slugs=javascript,typescript,python,java,cplusplus,csharp)
+[![Languages](https://skillicons.dev/icons?i=python,java,javascript,cpp,c,ocaml&theme=dark&perline=6)](https://skillicons.dev)
+<p align="center">
+  <img src="https://tech-stack.wontory.dev/api/orbit?text=Languages&slugs=javascript,python,openjdk,c,cplusplus,ocaml" width="350" alt="Languages" />
+</p>
 
 **Frameworks & Libraries**
 
-![Frameworks](https://tech-stack.wontory.dev/api/orbit?text=Frameworks&slugs=react,django,nextdotjs,nodedotjs,express,fastapi,tailwindcss,bootstrap,pytorch)
+[![AI & Data](https://skillicons.dev/icons?i=pytorch,tensorflow,react,html5,threedotjs&theme=dark&perline=4)](https://skillicons.dev)
+<p align="center">
+  <img src="https://tech-stack.wontory.dev/api/orbit?text=Frameworks&slugs=react,html5,threedotjs" width="350" alt="Frameworks" />
+</p>
 
-**Databases**
+**Databases & Cloud**
 
-![Databases](https://tech-stack.wontory.dev/api/orbit?text=Databases&slugs=mysql,mongodb,postgresql,redis)
-
-**Cloud & DevOps**
-
-![Cloud](https://tech-stack.wontory.dev/api/orbit?text=Cloud&slugs=amazonaws,docker,googlecloud,microsoftazure,nginx,vercel,linux,git,github)
-
-**Dev Tools**
-
-![Tools](https://tech-stack.wontory.dev/api/orbit?text=Tools&slugs=figma,adobephotoshop,postman,visualstudiocode)
+[![Databases & Cloud](https://skillicons.dev/icons?i=mysql,postgresql,aws,docker,git,github,linux&theme=dark&perline=7)](https://skillicons.dev)
