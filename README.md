@@ -4,7 +4,7 @@
 
 Trying to build something impactful
 
-- Currently working on Datahub's opensource Hackathon to improve AI's 'context managment' of metadata
+- Currently working on Datahub's opensource Hackathon to improve and furthere understand 'context managment' of AI
 
 ---
 
