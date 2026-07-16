@@ -13,16 +13,10 @@ Trying to build something impactful
 **Languages**
 
 [![Languages](https://skillicons.dev/icons?i=python,java,javascript,cpp,c,ocaml&theme=dark&perline=6)](https://skillicons.dev)
-<p align="center">
-  <img src="https://tech-stack.wontory.dev/api/orbit?text=Languages&slugs=javascript,python,openjdk,c,cplusplus,ocaml" width="350" alt="Languages" />
-</p>
 
 **Frameworks & Libraries**
 
 [![AI & Data](https://skillicons.dev/icons?i=pytorch,tensorflow,react,html5,threedotjs&theme=dark&perline=4)](https://skillicons.dev)
-<p align="center">
-  <img src="https://tech-stack.wontory.dev/api/orbit?text=Frameworks&slugs=react,html5,threedotjs" width="350" alt="Frameworks" />
-</p>
 
 **Databases & Cloud**
 
