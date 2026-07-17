@@ -1,8 +1,6 @@
-# Hello World, I'm Alex
+# Hey, I'm Alex :)
 
-**Computer Science + Math @ Northeastern University**
-
-Trying to build something impactful
+I'm a junior at Norhteastern studying CS + Math, trying to build something impactful
 
 - Currently working on Datahub's opensource Hackathon to improve and furthere understand 'context managment' of AI: particuarly in the wake of new regulations on AI and consumer privacy
 
