@@ -4,7 +4,7 @@
 
 Trying to build something impactful
 
-- Currently working on Datahub's opensource Hackathon to improve and furthere understand 'context managment' of AI in the wake of new regulation's on AI and consumer privacy
+- Currently working on Datahub's opensource Hackathon to improve and furthere understand 'context managment' of AI: particuarly in the wake of new regulations on AI and consumer privacy
 
 ---
 
