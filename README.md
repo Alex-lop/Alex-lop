@@ -4,6 +4,10 @@ I'm a junior at Norhteastern studying CS + Math, trying to build something impac
 
 - Currently working on Datahub's opensource Hackathon to improve and furthere understand 'context managment' of AI: particuarly in the wake of new regulations on AI and consumer privacy
 
+<p align="center">
+  <img src="Final_Dark.png" width="280" alt="ASCII selfie">
+</p>
+
 ---
 
 ## 💻 Tech Stack
